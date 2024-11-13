@@ -1,4 +1,4 @@
-# Evaluation of the effectiveness of the new recommendation system on the online supermarket platform.
+# Evaluating (A/B testing) the effectiveness of the new recommendation system on the online supermarket platform.
 
 **Цель**:
 Нужно оценить эффективность новой RecSys на платформе онлайн-супермаркета.
