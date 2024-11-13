@@ -4,7 +4,7 @@
 
 **Данные**:
 
-orders_ab.csv — информация о заказах:
+**orders_ab.csv ** — информация о заказах:
 
 order_id - id заказа
 
@@ -13,7 +13,7 @@ creation_time - время создания заказа
 product_ids - id продукта
 
 
-products_ab.csv — информация о продуктах:
+**products_ab.csv** — информация о продуктах:
 
 product_id - id продукта
 
@@ -22,7 +22,7 @@ name - имя продукта
 price - цена продукта
 
 
-users_data_ab.csv — информация о пользователях:
+**users_data_ab.csv** — информация о пользователях:
 
 user_id - id пользователя
 
